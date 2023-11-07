@@ -2,9 +2,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 # Images
-    <img src="../Foody/demo-images/welcome.jpg" alt="" height="400px" width="200px">
-    <img src="../Foody/demo-images/home.jpg" alt="" height="400px" width="200px">
-    <img src="../Foody/demo-images/detailscreen.jpg" alt="" height="400px" width="200px">
+<img src="../Foody/demo-images/welcome.jpg" alt="" height="400px" width="200px">
+<img src="../Foody/demo-images/home.jpg" alt="" height="400px" width="200px">
+<img src="../Foody/demo-images/detailscreen.jpg" alt="" height="400px" width="200px">
 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.

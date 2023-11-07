@@ -3,9 +3,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 # Images
 <div style="display:flex;gap:20px">
-<img src="../Foody/demo-images/welcome.jpg" alt="" height="400px" width="200px">
-<img src="../Foody/demo-images/home.jpg" alt="" height="400px" width="200px">
-<img src="../Foody/demo-images/detailscreen.jpg" alt="" height="400px" width="200px">
+<img src="./demo-images/welcome.jpg" alt="" height="400px" width="200px">
+<img src="./demo-images/home.jpg" alt="" height="400px" width="200px">
+<img src="./demo-images/detailscreen.jpg" alt="" height="400px" width="200px">
 </div>
 
 
